@@ -253,7 +253,7 @@ tranvolt-bikes-analysis/
 
 I am not a typical data analyst. Before I ever opened a spreadsheet to analyse numbers, I was analysing people — reading rooms, understanding motivations, and shaping conversations. As an English Studies graduate, I trained in the close reading of language, narrative, and human behaviour. That foundation never left me; it simply found a new application.
 
-In 2023, I built a production business from the ground up and grew it to **300 customers**, achieving **50% profit margins within 4 months** — not through luck, but through understanding what customers wanted, where the market gaps were, and how to position a product to convert interest into purchase. That is, at its core, what data analysis is: turning information into decisions that produce outcomes.
+In 2024, I built a production business from the ground up and grew it to **300 customers**, achieving **50% profit margins within 4 months** — not through luck, but through understanding what customers wanted, where the market gaps were, and how to position a product to convert interest into purchase. That is, at its core, what data analysis is: turning information into decisions that produce outcomes.
 
 Today, as a **Sales and Marketing Intern**, I sit at the intersection of two disciplines that most people keep separate. I understand how products move through markets, how customers make decisions, and how businesses grow — and I am now building the technical skills to quantify, model, and communicate those dynamics with data.
 
