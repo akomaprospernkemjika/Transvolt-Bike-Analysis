@@ -253,4 +253,5 @@ tranvolt-bikes-analysis/
 
 ---
 
+- Collaborated with data analytics mentor on project dataset and analysis guidance
 *Last updated: June 2026*
